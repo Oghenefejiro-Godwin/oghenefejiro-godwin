@@ -99,7 +99,7 @@ https://github.com/Oghenefejiro-Godwin/Power-BI-project
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Oghenefejiro-Godwin  
-- LinkedIn: oghenefejiro godwin 
+- LinkedIn: [oghenefejiro godwin ](https://www.linkedin.com/in/oghenefejiro-ugbama-06b455230/)
 - Email: godwinugbama@gmail.com  
 
 ⭐ *Thank you for visiting my profile. Feel free to explore my projects and dashboards.*
