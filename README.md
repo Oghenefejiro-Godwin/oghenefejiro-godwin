@@ -1,105 +1,49 @@
-# 👋 Hi, I'm Oghenefejiro Godwin
+# Hi, I'm Oghenefejiro Godwin 👋
 
-🎯 **Data Analyst | Power BI | SQL | Excel**  
-📊 I analyze data and build dashboards that turn raw numbers into clear, actionable business insights.
+**Data Analyst | SQL · Power BI · Excel · Python**
+Lagos, Nigeria
 
----
-
-## 🔍 About Me
-
-I am a detail-oriented and analytical Data Analyst with hands-on experience working with real-world datasets.  
-My focus is on extracting insights, identifying trends, and presenting data in a way that supports informed decision-making.
-
-I enjoy solving problems using data, writing efficient queries, and creating intuitive visual dashboards for stakeholders.
+I turn messy data into clear answers that people can act on. I'm a Data Analyst and Project Coordinator at MP-Infrastructure, and I build projects in my own time to sharpen the same skills: cleaning data, writing SQL, building dashboards and explaining what the numbers mean.
 
 ---
 
-## 🔧 Skills & Tools
+## 🧰 Tools
 
-- **Power BI**
-  - Interactive dashboards
-  - KPI tracking
-  - DAX calculations
-  - Data storytelling
-
-- **SQL**
-  - Data querying
-  - Joins & subqueries
-  - Aggregations & filtering
-
-- **Excel**
-  - Data cleaning
-  - Pivot tables
-  - Exploratory analysis
+| Area | What I use |
+|---|---|
+| Querying | SQL (PostgreSQL, MySQL): joins, CTEs, window functions, aggregations |
+| Dashboards | Power BI (DAX, Power Query, drill-through), Tableau |
+| Analysis | Python (Pandas, Matplotlib), Excel (pivot tables, cleaning) |
 
 ---
 
-## 📌 Featured Data Analytics Projects
+## 📌 Selected Projects
 
-### 📈 Tesla Stock Data Analysis (SQL + Power BI)
-**Objective:**  
-Analyze Tesla’s historical stock data to identify trends, volatility patterns, and performance behavior over time.
-
-**What I Did:**
-- Queried and prepared stock data using SQL
-- Calculated performance metrics such as daily returns and volatility
-- Visualized trends and movements using Power BI
-- Designed charts to compare opening and closing prices
-
-**Key Insights:**
-- Identified periods of high market volatility
-- Observed long-term price movement trends
-- Highlighted daily performance behavior
-
-🔗 **View Project:**  
-https://github.com/Oghenefejiro-Godwin/Tesla_stock_Data_analysis
+| Project | What it covers | Tools |
+|---|---|---|
+| [Data Jobs Dashboard](https://github.com/Oghenefejiro-Godwin/Power-BI-project) | Interactive two-page dashboard on 2024 data job postings: salaries, job counts and locations, with a drill-through view for each job title | Power BI, Power Query, DAX |
+| [Data Engineer Salary & Skills](https://github.com/Oghenefejiro-Godwin/DataEngineer_Salary_Skills_Analysis) | Cleaning and analysing salary and skill-demand data for Data Engineer roles to see which skills matter most | Data analysis |
+| [Tesla Stock Analysis](https://github.com/Oghenefejiro-Godwin/Tesla_stock_Data_analysis) | Time-series analysis in pure SQL: daily trading ranges, summary statistics, daily returns and the best and worst trading days | PostgreSQL |
+| [Chocolate Sales Analysis](https://github.com/Oghenefejiro-Godwin/Chocolate-Sales-Analysis) | Sales trends, product performance, market contribution, channel performance and marketing effectiveness | Python, Jupyter |
+| [Adidas Product Analysis](https://github.com/Oghenefejiro-Godwin/Adidas_Product_Analysis) | Retail analysis of Adidas USA products: pricing trends, discount impact and category ratings | Python, Pandas, Matplotlib |
 
 ---
 
-### 📊 Data Engineer Salary & Skills Analysis (Data Analysis Project)
-**Objective:**  
-Analyze salary and skill demand data for Data Engineer roles to understand market trends and guide skill prioritization.
+## 🎓 Credentials
 
-**What I Did:**
-- Cleaned and structured raw salary and skills datasets
-- Analyzed demand for technical skills across roles
-- Compared salary ranges against experience and skill sets
-- Visualized insights to highlight high-value skills
-
-**Key Insights:**
-- Identified in-demand skills associated with higher salaries
-- Revealed trends in experience-level compensation
-- Highlighted skill gaps for career development
-
-🔗 **View Project:**  
-https://github.com/Oghenefejiro-Godwin/DataEngineer_Salary_Skills_Analysis
+- DataCamp Associate Data Analyst certification (2025)
+- Data Community Africa × DataCamp 2025 Scholar
+- BSc Banking, Finance & Insurance, University of Benin
 
 ---
 
-### 📊 Workforce Engagement & Business Insights Dashboard (Power BI)
-**Objective:**  
-Build an interactive Power BI dashboard to analyze workforce engagement and performance metrics for business insights.
+## 🎨 Beyond data
 
-**What I Did:**
-- Built interactive dashboards in Power BI
-- Created KPIs to track engagement and responsiveness
-- Designed visuals to highlight performance trends
-- Structured insights for easy stakeholder interpretation
-
-**Key Insights:**
-- Highlighted performance and engagement patterns
-- Identified areas requiring managerial attention
-- Presented metrics that support decision-making
-
-🔗 **View Project:**  
-https://github.com/Oghenefejiro-Godwin/Power-BI-project
+I also run a YouTube channel teaching graphic design: [FAGGIO.design](https://youtube.com/@faggio.design). It keeps my visual communication sharp, which helps every dashboard I build.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's connect
 
-- GitHub: https://github.com/Oghenefejiro-Godwin  
-- LinkedIn: [oghenefejiro godwin ](https://www.linkedin.com/in/oghenefejiro-ugbama-06b455230/)
-- Email: godwinugbama@gmail.com  
-
-⭐ *Thank you for visiting my profile. Feel free to explore my projects and dashboards.*
+- LinkedIn: [oghenefejiro-ugbama](https://www.linkedin.com/in/oghenefejiro-ugbama-06b455230/)
+- Email: godwinugbama@gmail.com
